@@ -15,8 +15,8 @@ python get_llm_decision_boundary.py --grid_size=50 --model_name=Llama-3-8B --num
 ```
 
 Expected output:
-![Expected Output](icl_github/ICL_decision_boundary/Llama-3-8B_128incontext.png)
 
+<img src="https://github.com/siyan-zhao/ICL_decision_boundary/blob/main/Llama-3-8B_128incontext.png" alt="Expected Output" width="600">
 ---
 
 More code for finetuning coming soon.
