@@ -1,6 +1,22 @@
-# ICL_decision_boundary
+# Probing the Decision Boundaries of In-context Learning in Large Language Models.
 
-official code for paper "Probing the Decision Boundaries of In-context Learning in Large Language Models." https://arxiv.org/abs/2406.11233
+The official code for the paper titled "Probing the Decision Boundaries of In-context Learning in Large Language Models."
+
+---
+
+[arXiv](https://arxiv.org/abs/2406.11233) | [Twitter summary post](https://x.com/siyan_zhao/status/1805277462890492321)
+
+---
+
+To get the decision boundary of Llama-3-8B on a linear binary classification task with 128 in-context examples per class, run:
+```
+python get_llm_decision_boundary.py --grid_size=50 --model_name=Llama-3-8B --num_in_context=128 --data_type=linear
+
+```
+
+Expected output:
+![Expected Output](icl_github/ICL_decision_boundary/Llama-3-8B_128incontext.png)
+
+---
 
 More code for finetuning coming soon.
-
