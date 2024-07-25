@@ -35,7 +35,7 @@ More code for finetuning coming soon.
 
 
 ---
-If you find our work helpful, please consider cite our work:
+If you find our work helpful, please consider citing our work:
 
 ```
 @article{zhao2024probing,
