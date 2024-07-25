@@ -32,3 +32,16 @@ Expected output:
 ---
 
 More code for finetuning coming soon.
+
+
+---
+If you find our work helpful, please consider cite our work:
+
+```
+@article{zhao2024probing,
+  title={Probing the Decision Boundaries of In-context Learning in Large Language Models},
+  author={Zhao, Siyan and Nguyen, Tung and Grover, Aditya},
+  journal={arXiv preprint arXiv:2406.11233},
+  year={2024}
+}
+```
