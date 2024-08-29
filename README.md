@@ -14,7 +14,7 @@ The official code for the paper titled "Probing the Decision Boundaries of In-co
 Install packages:
 
 ```
-pip install -r requirements. txt
+pip install -r requirements.txt
 ```
 
 
